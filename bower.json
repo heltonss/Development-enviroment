@@ -1,0 +1,25 @@
+{
+    "name": "development-enviroment",
+    "description": "Development environment with gulp, bower and injection automatic of the dependencies css, javascript, libraries in the index.html",
+    "main": "index.js",
+    "authors": [
+        "Helton <helton@heltonsouza.com.br> (http://heltonsouza.com.br)"
+    ],
+    "license": "ISC",
+    "keywords": [
+        "gestão",
+        "escolar",
+        "nodejs",
+        "angularjs"
+    ],
+    "homepage": "",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {}
+}

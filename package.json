@@ -1,0 +1,24 @@
+{
+    "name": "development-enviroment",
+    "version": "1.0.0",
+    "description": "Development environment with gulp, bower and injection automatic of the dependencies css, javascript, libraries in the index.html",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "gestão",
+        "escolar",
+        "nodejs",
+        "angularjs"
+    ],
+    "author": "Helton <helton@heltonsouza.com.br> (http://heltonsouza.com.br)",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-inject": "^4.2.0",
+        "gulp-server-livereload": "^1.9.2",
+        "gulp-watch": "^4.3.11",
+        "wiredep": "^4.0.0"
+    }
+}
