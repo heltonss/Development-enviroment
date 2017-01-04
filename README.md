@@ -1,7 +1,9 @@
 # Development-enviroment
 Development environment with gulp, bower and injection automatic of the dependencies css, javascript, libraries in the index.html
 
-for to use there is no secret.
+for to use no there is secret.
+
+execute gulp in the terminal inside of the folder root
 
 only create the archives in the correspondents folders (styles / scripts) that automatically to be inserted in the index.html
 
